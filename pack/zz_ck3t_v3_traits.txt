@@ -1,0 +1,6 @@
+﻿ck3t_target_marker = {
+ shown_in_ruler_designer = no
+ shown_in_encyclopedia = no
+ random_creation = 0
+ icon = "gfx/interface/icons/traits/whole_of_body.dds"
+}

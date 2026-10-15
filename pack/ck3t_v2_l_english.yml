@@ -1,0 +1,15 @@
+﻿l_english:
+ ck3t_v2_probe:0 "Pack 2 check"
+ ck3t_profile_army:0 "Army: one strong profile"
+ ck3t_profile_builder:0 "Builder: speed and cost"
+ ck3t_profile_ruler:0 "Ruler: health, skills and limits"
+ ck3t_profile_family:0 "Family: health, skills and stress"
+ trait_ck3t_disease_shield:0 "Disease protection"
+ trait_ck3t_disease_shield_desc:0 "Protection from the personal CK3 trainer."
+ trait_ck3t_battle_shield:0 "Safe command"
+ trait_ck3t_battle_shield_desc:0 "Protection from the personal CK3 trainer."
+
+
+ ck3t_profile_commanders:0 "Commanders: advantage, rolls and low losses"
+ ck3t_profile_knights:0 "My knights: prowess and health"
+ ck3t_profile_provinces:0 "Settlements: income and epidemic resistance"

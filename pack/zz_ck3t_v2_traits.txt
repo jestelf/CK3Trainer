@@ -1,0 +1,15 @@
+﻿ck3t_disease_shield = {
+ shown_in_ruler_designer = no
+ shown_in_encyclopedia = no
+ random_creation = 0
+ health = 50
+ flag = blocks_getting_non_epidemic_disease
+ icon = "gfx/interface/icons/traits/whole_of_body.dds"
+}
+ck3t_battle_shield = {
+ shown_in_ruler_designer = no
+ shown_in_encyclopedia = no
+ random_creation = 0
+ disables_combat_leadership = yes
+ icon = "gfx/interface/icons/traits/strategist.dds"
+}

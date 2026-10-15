@@ -1,0 +1,4 @@
+﻿using System;using System.Collections.Generic;
+static class SiegeProgressCode {
+public static byte[] Guard(long data,long slot,long original){string hex="53415441554883ec20448b69084989d448b82222223000503412ffd049ba11111130005034124d8b1249bb00000030005034124d3b530875254d8b13418b1a4983c20885db7417453b2a750a49c7042400000000eb084983c208ffcbebe54883c420415d415c5bc3";var b=new byte[hex.Length/2];for(int i=0;i<b.Length;i++)b[i]=Convert.ToByte(hex.Substring(i*2,2),16);foreach(var p in new Dictionary<long,long>{{1311761353207185408L,data},{1311761353208303889L,slot},{1311761353209422370L,original}}){var old=BitConverter.GetBytes(p.Key);var next=BitConverter.GetBytes(p.Value);for(int i=0;i<=b.Length-8;i++){bool match=true;for(int j=0;j<8;j++)if(b[i+j]!=old[j]){match=false;break;}if(match){Array.Copy(next,0,b,i,8);i+=7;}}}return b;}
+}

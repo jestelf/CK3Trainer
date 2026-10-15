@@ -1,0 +1,15 @@
+﻿l_russian:
+ ck3t_v2_probe:0 "Проверка пакета 2"
+ ck3t_profile_army:0 "Армия: единый мощный профиль"
+ ck3t_profile_builder:0 "Строитель: скорость и стоимость"
+ ck3t_profile_ruler:0 "Правитель: здоровье, навыки и лимиты"
+ ck3t_profile_family:0 "Семья: здоровье, навыки и стресс"
+ trait_ck3t_disease_shield:0 "Защита от болезней"
+ trait_ck3t_disease_shield_desc:0 "Защита личного трейнера CK3."
+ trait_ck3t_battle_shield:0 "Безопасное командование"
+ trait_ck3t_battle_shield_desc:0 "Защита личного трейнера CK3."
+
+
+ ck3t_profile_commanders:0 "Командиры: преимущество, броски и малые потери"
+ ck3t_profile_knights:0 "Мои рыцари: доблесть и здоровье"
+ ck3t_profile_provinces:0 "Поселения: доходы и сопротивление эпидемиям"

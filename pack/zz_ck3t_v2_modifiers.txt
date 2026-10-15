@@ -1,0 +1,9 @@
+﻿ck3t_v2_probe = { monthly_prestige = 0 }
+ck3t_profile_army = { icon = positive movement_speed = 4 army_damage_mult = 4 army_toughness_mult = 4 siege_phase_time = -0.99 army_siege_value_mult = 19 army_maintenance_mult = -0.99 levy_reinforcement_rate = 9 knight_effectiveness_mult = 4 supply_capacity_mult = 9 }
+ck3t_profile_builder = { icon = positive build_speed = -0.99 holding_build_speed = -0.99 build_gold_cost = -0.99 holding_build_gold_cost = -0.99 }
+ck3t_profile_ruler = { icon = positive health = 50 stress_gain_mult = -0.99 diplomacy = 50 martial = 50 stewardship = 50 intrigue = 50 learning = 50 prowess = 50 domain_limit = 50 vassal_limit = 100 direct_vassal_opinion = 100 }
+ck3t_profile_family = { icon = positive health = 50 diplomacy = 30 martial = 30 stewardship = 30 intrigue = 30 learning = 30 prowess = 30 stress_gain_mult = -0.99 }
+
+ck3t_profile_commanders = { icon = positive advantage = 100 min_combat_roll = 10 max_combat_roll = 10 hard_casualty_modifier = -0.99 retreat_losses = -0.99 }
+ck3t_profile_knights = { icon = positive prowess = 100 health = 50 }
+ck3t_profile_provinces = { icon = positive tax_mult = 4 epidemic_resistance = 100 }

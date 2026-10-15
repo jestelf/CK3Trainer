@@ -1,0 +1,232 @@
+﻿# CK3 Personal Trainer -- owned namespaced definitions.
+ck3t_probe = { monthly_prestige = 0 }
+
+ck3t_health = {
+ icon = positive
+ health = 50
+}
+
+ck3t_stress = {
+ icon = positive
+ stress_gain_mult = -0.99
+}
+
+ck3t_skills = {
+ icon = positive
+ diplomacy = 50
+ martial = 50
+ stewardship = 50
+ intrigue = 50
+ learning = 50
+ prowess = 50
+}
+
+ck3t_diplomacy = {
+ icon = positive
+ diplomacy = 100
+}
+
+ck3t_martial = {
+ icon = positive
+ martial = 100
+}
+
+ck3t_stewardship = {
+ icon = positive
+ stewardship = 100
+}
+
+ck3t_intrigue = {
+ icon = positive
+ intrigue = 100
+}
+
+ck3t_learning = {
+ icon = positive
+ learning = 100
+}
+
+ck3t_prowess = {
+ icon = positive
+ prowess = 100
+}
+
+ck3t_income = {
+ icon = positive
+ monthly_income_mult = 4
+}
+
+ck3t_domain = {
+ icon = positive
+ domain_limit = 50
+}
+
+ck3t_vassals = {
+ icon = positive
+ vassal_limit = 100
+}
+
+ck3t_prestige = {
+ icon = positive
+ monthly_prestige = 100
+}
+
+ck3t_piety = {
+ icon = positive
+ monthly_piety = 100
+}
+
+ck3t_fertility = {
+ icon = positive
+ fertility = 1
+}
+
+ck3t_opinion = {
+ icon = positive
+ direct_vassal_opinion = 100
+}
+
+ck3t_build = {
+ icon = positive
+ build_speed = -0.99
+ holding_build_speed = -0.99
+}
+
+ck3t_freebuild = {
+ icon = positive
+ build_gold_cost = -0.99
+ holding_build_gold_cost = -0.99
+}
+
+ck3t_army_speed = {
+ icon = positive
+ movement_speed = 4
+}
+
+ck3t_advantage = {
+ icon = positive
+ advantage = 100
+}
+
+ck3t_army_damage = {
+ icon = positive
+ army_damage_mult = 4
+}
+
+ck3t_army_toughness = {
+ icon = positive
+ army_toughness_mult = 4
+}
+
+ck3t_sieges = {
+ icon = positive
+ siege_phase_time = -0.99
+}
+
+ck3t_siege_power = {
+ icon = positive
+ army_siege_value_mult = 19
+}
+
+ck3t_army_free = {
+ icon = positive
+ army_maintenance_mult = -0.99
+}
+
+ck3t_reinforce = {
+ icon = positive
+ levy_reinforcement_rate = 9
+}
+
+ck3t_knights = {
+ icon = positive
+ knight_limit = 30
+}
+
+ck3t_knight_effect = {
+ icon = positive
+ knight_effectiveness_mult = 4
+}
+
+ck3t_maa = {
+ icon = positive
+ men_at_arms_limit = 20
+}
+
+ck3t_supply_limit = {
+ icon = positive
+ supply_capacity_mult = 9
+}
+
+ck3t_travel = {
+ icon = positive
+ character_travel_speed = 300
+ character_travel_safety = 100
+}
+
+ck3t_camp = {
+ icon = positive
+ domicile_build_speed = -0.99
+}
+
+ck3t_family_health = {
+ icon = positive
+ health = 50
+}
+
+ck3t_family_skills = {
+ icon = positive
+ diplomacy = 30
+ martial = 30
+ stewardship = 30
+ intrigue = 30
+ learning = 30
+ prowess = 30
+}
+
+ck3t_family_stress = {
+ icon = positive
+ stress_gain_mult = -0.99
+}
+
+ck3t_province_control = {
+ icon = positive
+ monthly_county_control_growth_add = 100
+}
+
+ck3t_province_dev = {
+ icon = positive
+ development_growth = 100
+}
+
+ck3t_province_tax = {
+ icon = positive
+ tax_mult = 4
+}
+
+ck3t_province_resistance = {
+ icon = positive
+ epidemic_resistance = 100
+}
+
+ck3t_enemy_army = {
+ icon = positive
+ army_damage_mult = -0.95
+ army_toughness_mult = -0.95
+ advantage = -100
+}
+
+ck3t_enemy_speed = {
+ icon = positive
+ movement_speed = -0.9
+}
+
+ck3t_enemy_money = {
+ icon = positive
+ monthly_income_mult = -0.95
+}
+
+ck3t_enemy_health = {
+ icon = positive
+ health = -3
+}
